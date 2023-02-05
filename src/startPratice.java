@@ -26,7 +26,9 @@ public class startPratice {
 		System.out.println(""
 				+ "1. Fibonaci Series"
 				+ "2. Palindrome Number Check"
-				+ "");
+				+ "3. Palindrome String Check"
+				+ "4. String Reverse"
+				);
 		
 		
 	}
