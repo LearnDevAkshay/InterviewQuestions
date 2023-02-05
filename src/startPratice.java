@@ -13,7 +13,7 @@ public class startPratice {
 		
 		startPratice strP = new startPratice();
 		
-		strP.ListOfPrograms();
+		
 		
 		
 		
@@ -21,15 +21,7 @@ public class startPratice {
 	}
 	
 	
-	public void ListOfPrograms() {
-		
-		System.out.println(""
-				+ "1. Fibonaci Series"
-				+ "2. Palindrome Number Check"
-				+ "");
-		
-		
-	}
+	
 	
 	
 
