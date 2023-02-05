@@ -13,7 +13,7 @@ public class startPratice {
 		
 		startPratice strP = new startPratice();
 		
-		strP.ListOfPrograms();
+		
 		
 		
 		
@@ -21,6 +21,7 @@ public class startPratice {
 	}
 	
 	
+
 	public void ListOfPrograms() {
 		
 		System.out.println(""
@@ -32,6 +33,7 @@ public class startPratice {
 		
 		
 	}
+
 	
 	
 
